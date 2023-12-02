@@ -1,0 +1,5 @@
+# Scrape_Table_from_Website_using_Python
+Web Scraping is one of the skills that every data science professional should know. Sometimes the data we need is available on a website in the form of a table which cannot be downloaded directly from the website. To use that data for any data science task, we need to collect it from the website using web scraping techniques. So if you want to learn how to scrape a table from a website, this article is for you. In this article, I will take you through a tutorial on how to scrape a table from a website using Python.
+
+Scrape Table from a Website using Python
+There are many Python libraries and modules that you can use for web scraping. To scrape a table from a website, I will use the urllib module in Python, which is already available in the Python standard library. So you don’t need to install any external library to scrape data from a website. Below is how you can use the urlib module to scrape a table from a website using Python programming language:
